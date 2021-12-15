@@ -9,5 +9,5 @@
 
 ## 2021 (대학교 4학년)
 ### 상반기
-[화재감지로봇 프로젝트](https://github.com/junseok-0505/Project/blob/main/%EB%A9%98%ED%86%A0%EB%A7%81%EA%B8%B0%EB%B0%98AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%ED%99%94%EC%9E%AC%EA%B0%90%EC%A7%80%EB%A1%9C%EB%B4%87%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
+[화재감지로봇 프로젝트](https://github.com/junseok-0505/Project/blob/main/%EB%A9%98%ED%86%A0%EB%A7%81%EA%B8%B0%EB%B0%98AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%ED%99%94%EC%9E%AC%EA%B0%90%EC%A7%80%EB%A1%9C%EB%B4%87%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)<br>
 [DTW 기반 추진 전동기 잔여수명 예측 알고리즘 개발 사례연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10671868)
